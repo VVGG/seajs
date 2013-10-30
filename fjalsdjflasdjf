@@ -1,0 +1,10 @@
+[1mdiff --git a/seajs/README.md b/seajs/README.md[m
+[1mindex ecaa2af..5a05140 100644[m
+[1m--- a/seajs/README.md[m
+[1m+++ b/seajs/README.md[m
+[36m@@ -27,3 +27,5 @@[m [mWhat version of Sea.js is the issue reproducible in. Is it reproducible after up[m
+ Sea.js is available under the terms of the [MIT License](http://seajs.org/LICENSE.md).[m
+ [m
+ ## VVGG[m
+[32m+[m
+[32m+[m[32m##123[m
